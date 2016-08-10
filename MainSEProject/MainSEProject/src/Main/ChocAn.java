@@ -5,7 +5,7 @@ import Graphics.graphicsStart;
 /**
  * The is the ChocAn Main Class. This simply will be the connector for the GUI.
  * 
- * @author sfyock
+ * @author sgill
  */
 public class ChocAn {
 
